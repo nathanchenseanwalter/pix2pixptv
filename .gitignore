@@ -45,6 +45,7 @@ checkpoints/
 *.x86_64
 *.hex
 
+# Python
 __pycache__/
 *.pth
 *.mp4
